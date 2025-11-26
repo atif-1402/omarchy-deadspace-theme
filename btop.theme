@@ -1,0 +1,74 @@
+# Main background (keep for transparent)
+theme[main_bg]="#010101"
+
+# Main text color
+theme[main_fg]="#ffffff"
+
+# Title color for boxes
+theme[title]="#dedada"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#e7e5e5"
+
+# Background of selected process
+theme[selected_bg]="#2a2a2a"
+
+# Foreground of selected process
+theme[selected_fg]="#ffffff"
+
+# Inactive/disabled text
+theme[inactive_fg]="#cfcaca"
+
+# Process box misc
+theme[proc_misc]="#d9d5d5"
+
+# Box outlines / dividers
+theme[cpu_box]="#b2aaaa"
+theme[mem_box]="#b2aaaa"
+theme[net_box]="#b2aaaa"
+theme[proc_box]="#b2aaaa"
+theme[div_line]="#cfcaca"
+
+# --------------------------
+#         GRADIENTS 
+# --------------------------
+
+# Temps
+theme[temp_start]="#dedada"
+theme[temp_mid]="#c1baba"
+theme[temp_end]="#a49a9a"
+
+# CPU usage
+theme[cpu_start]="#dedada"
+theme[cpu_mid]="#c1baba"
+theme[cpu_end]="#a49a9a"
+
+# Free memory
+theme[free_start]="#c1baba"
+theme[free_mid]="#b2aaaa"
+theme[free_end]="#a49a9a"
+
+# Cached memory
+theme[cached_start]="#b2aaaa"
+theme[cached_mid]="#a49a9a"
+theme[cached_end]="#a49a9a"
+
+# Available memory
+theme[available_start]="#e7e5e5"
+theme[available_mid]="#dedada"
+theme[available_end]="#cfcaca"
+
+# Used memory
+theme[used_start]="#a49a9a"
+theme[used_mid]="#a49a9a"
+theme[used_end]="#a49a9a"
+
+# Network (download)
+theme[download_start]="#b2aaaa"
+theme[download_mid]="#d9d5d5"
+theme[download_end]="#c1baba"
+
+# Network (upload)
+theme[upload_start]="#b2aaaa"
+theme[upload_mid]="#e7e5e5"
+theme[upload_end]="#c1baba"
