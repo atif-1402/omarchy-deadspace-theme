@@ -1,5 +1,9 @@
 # Dead Space
 
+- Updated >>
+  -Added One more background
+  -Adjusted the hyprlanc.conf blur to match the vibe
+
 - Install
 ```bash
    omarchy-theme-install https://github.com/atif-1402/omarchy-deadspace-theme.git
