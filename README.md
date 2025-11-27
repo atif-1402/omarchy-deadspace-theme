@@ -1,8 +1,8 @@
 # Dead Space
 
 - Updated >>
-  -Added One more background
-  -Adjusted the hyprlanc.conf blur to match the vibe
+  - Added One more background
+  - Adjusted the hyprlanc.conf blur to match the vibe
 
 - Install
 ```bash
